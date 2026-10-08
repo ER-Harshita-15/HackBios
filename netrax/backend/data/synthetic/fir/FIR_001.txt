@@ -1,0 +1,92 @@
+SYNTHETIC DEMO DATA — FOR TESTING PURPOSES ONLY
+ALL NAMES, NUMBERS, AND DETAILS ARE ENTIRELY FICTIONAL
+
+═══════════════════════════════════════════════════════════
+                    FIRST INFORMATION REPORT
+═══════════════════════════════════════════════════════════
+
+FIR Number: NX-001/2026
+Police Station: Cyber Crime Cell
+District: Central District
+State: Demo State
+
+Date of Report: 03/06/2026
+Time of Report: 02:12
+
+═══════════════════════════════════════════════════════════
+SECTION I — COMPLAINANT DETAILS
+═══════════════════════════════════════════════════════════
+
+Name: Rahul Sharma
+Phone: 8567890123
+Email: vikram.m@business.org
+Address: House No. 42, Nehru Colony, Central District
+
+═══════════════════════════════════════════════════════════
+SECTION II — PERSONS MENTIONED / ACCUSED
+═══════════════════════════════════════════════════════════
+
+Accused 1:
+  Name: Amit Verma
+  Phone: 7345678901
+  Address: Near Highway NH-6, Central District
+
+Accused 2:
+  Name: Neha Singh
+  Phone: 9988776655
+  Address: Near Rajendra Place, Central District
+
+═══════════════════════════════════════════════════════════
+SECTION III — INCIDENT DETAILS
+═══════════════════════════════════════════════════════════
+
+Date of Incident: 03/06/2026
+Time of Incident: Approximately 02:12 hours
+Location: Nehru Colony, near Gandhi Nagar
+
+Vehicle Involved: DL01EF9012
+Organization Mentioned: Metro Logistics
+
+═══════════════════════════════════════════════════════════
+SECTION IV — NARRATIVE
+═══════════════════════════════════════════════════════════
+
+On 03/06/2026 at approximately 02:12 hours, the complainant Rahul Sharma
+(phone: 8567890123) reported the following incident at Cyber Crime Cell:
+
+The complainant stated that on the above date, while present near Nehru Colony,
+they observed suspicious activity involving the accused Amit Verma
+(contact number: 7345678901). The accused was seen operating from a vehicle
+bearing registration number DL01EF9012.
+
+The complainant further stated that Amit Verma was in contact with
+Neha Singh who is believed to be associated with Metro Logistics. Multiple phone
+calls were exchanged between the parties on numbers 8567890123 and 7345678901.
+
+The accused Amit Verma was seen near Ring Road and later
+near Nehru Colony during the period in question.
+
+═══════════════════════════════════════════════════════════
+SECTION V — EVIDENCE COLLECTED
+═══════════════════════════════════════════════════════════
+
+1. CCTV footage from Nehru Colony
+2. Call records from number 8567890123
+3. Call records from number 7345678901
+4. Vehicle registration details for DL01EF9012
+5. Bank account records for Account No. 5678901234567
+
+═══════════════════════════════════════════════════════════
+SECTION VI — ACTION TAKEN
+═══════════════════════════════════════════════════════════
+
+FIR registered under appropriate sections. Investigation initiated.
+The above report was written based on the statement of Rahul Sharma.
+
+Investigating Officer: IO-241
+Signature: [Signed]
+Date: 03/06/2026
+
+═══════════════════════════════════════════════════════════
+            SYNTHETIC DATA — NOT A REAL DOCUMENT
+═══════════════════════════════════════════════════════════

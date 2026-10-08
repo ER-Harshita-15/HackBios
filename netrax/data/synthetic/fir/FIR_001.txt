@@ -1,0 +1,54 @@
+# ==============================================================================
+# NETRA-X SYNTHETIC DEMO DATA — FOR TESTING AND DEMONSTRATION PURPOSES ONLY
+# ALL DATA IS ENTIRELY FICTIONAL — NO REAL PERSONS, CASES, OR RECORDS
+# ==============================================================================
+
+FIRST INFORMATION REPORT (Under Section 154 Cr.P.C)
+------------------------------------------------------------------------------
+Police Station: Central Kotwali Police Station
+District: Central District
+FIR No.: FIR/2024/00142
+Date & Time of FIR: 15/01/2024 10:30 IST
+Date & Time of Occurrence: 14/01/2024 21:15 IST
+Place of Occurrence: Near Subhash Chowk, Station Road, Central District
+Act & Sections: IPC 1860 Section 420 (Cheating), Section 120B (Criminal Conspiracy)
+
+1. COMPLAINANT / INFORMANT:
+   Name: Rahul Sharma
+   Father's Name: O. P. Sharma
+   Age: 38 Years
+   Address: Flat 402, Gandhi Nagar, Central District
+   Contact No.: 9876543210
+   Email: rahul.sharma@email.com
+
+2. SUSPECT / ACCUSED PERSONS:
+   Suspect 1:
+   Name: Amit Verma
+   Alias: Vicky
+   Address: House No. 12, Civil Lines
+   Contact No.: 9988776655
+   Vehicle Involved: White Sedan, Reg No. CG10AB1234
+   Email: amit.verma@mail.co.in
+
+   Suspect 2:
+   Name: Neha Singh
+   Associate: ABC Trading Co.
+   Contact No.: 8877665544
+   Email: neha.singh@webmail.com
+   Bank Account Referenced: 1234567890123
+
+3. DETAILS OF PROPERTY / SEIZED ARTICLES:
+   - Mobile Device IMEI: 123456789012345
+   - Vehicle Registration: CG10AB1234
+   - Bank Account: 1234567890123
+
+4. BRIEF FACTS OF THE CASE:
+   The complainant Rahul Sharma reported that on 14/01/2024 at approximately 21:15 hours,
+   he met with Amit Verma and Neha Singh regarding a proposed supply contract with
+   ABC Trading Co. located at Station Road. Amit Verma demanded an upfront transfer of
+   funds to account 1234567890123. The complainant noticed suspect Amit Verma arriving
+   in vehicle CG10AB1234 and making urgent calls using mobile number 9988776655.
+   Subsequent attempts to reach Neha Singh on 8877665544 or Amit Verma failed.
+   Further investigation is handed over to Sub-Inspector R. K. Yadav.
+
+Investigating Officer: Inspector R. K. Yadav, Central Kotwali

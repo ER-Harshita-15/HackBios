@@ -1,0 +1,44 @@
+# ==============================================================================
+# NETRA-X SYNTHETIC DEMO DATA — FOR TESTING AND DEMONSTRATION PURPOSES ONLY
+# ALL DATA IS ENTIRELY FICTIONAL — NO REAL PERSONS, CASES, OR RECORDS
+# ==============================================================================
+
+FIRST INFORMATION REPORT (Under Section 154 Cr.P.C)
+------------------------------------------------------------------------------
+Police Station: Industrial Area Police Station
+District: North District
+FIR No.: FIR/2024/00215
+Date & Time of FIR: 22/01/2024 14:00 IST
+Date & Time of Occurrence: 20/01/2024 18:45 IST
+Place of Occurrence: Sector 21, Industrial Area Phase 2
+Act & Sections: IPC 1860 Section 406 (Criminal Breach of Trust), Section 468 (Forgery)
+
+1. COMPLAINANT / INFORMANT:
+   Name: Priya Patel
+   Business: XYZ Enterprises
+   Address: Sector 21, Industrial Area Phase 2
+   Contact No.: 9123456780
+   Email: priya.patel@inbox.net
+
+2. SUSPECT / ACCUSED PERSONS:
+   Suspect 1:
+   Name: Amit Verma
+   Contact No.: 9988776655
+   Vehicle Observed: CG10AB1234
+   Email: amit.verma@mail.co.in
+
+   Suspect 2:
+   Name: Vikram Malhotra
+   Contact No.: 7766554433
+   Email: vikram.m@business.org
+   Bank Account Referenced: 9876543210987
+
+3. BRIEF FACTS OF THE CASE:
+   The complainant Priya Patel reported that Vikram Malhotra operating under
+   Global Finance Ltd. coordinated with Amit Verma (mobile: 9988776655) to divert
+   commercial consignments from Industrial Area Phase 2. Amit Verma was driving
+   vehicle CG10AB1234 registered in the region. Vikram Malhotra instructed
+   disbursement to bank account 9876543210987. Both suspects could not be traced
+   at their registered addresses in Civil Lines.
+
+Investigating Officer: Inspector S. P. Joshi, Industrial Area PS
